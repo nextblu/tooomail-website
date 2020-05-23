@@ -1,2 +1,3 @@
-# tooomail-website
-The ToooMail website
+# ToooMail-website
+
+Main template for ToooMail
